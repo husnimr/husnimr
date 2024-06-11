@@ -6,12 +6,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me **husnimubaroksvtn@gmail.com**
 
-Other project:
-- [agriculate](https://github.com/husnimr/Agriculate-Project-Olivia)
-- [bookshelf app](https://github.com/husnimr/bookshelf-apps)
-- [warung kopi app](https://github.com/husnimr/bookshelf-apps)
-- see all [here](https://github.com/husnimr?tab=repositories)
-
 ### 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husnimr&layout=compact)
