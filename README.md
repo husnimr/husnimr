@@ -1,6 +1,6 @@
 # <p align="center">  Hi 👋, I'm Husni Mubarok Ramadhan </p>
 
-### <p align="center">I'm a developer from Indonesia, with the interest for frontend development</p>
+### <p align="center">I'm a developer, with the interest for frontend development</p>
 
 - 🔭 I’m currently some **personal project**
 - 💬 Ask me about ...
