@@ -1,9 +1,11 @@
 # <p align="center">  Hi 👋, I'm Husni Mubarok Ramadhan </p>
 
-### <p align="center">I'm a developer, with the interest for frontend development</p>
+### <p align="center">I'm a developer, with the interest for full stack development</p>
 
 - 🔭 I’m currently some **personal project**
-- - 🔭 I’m currently working on **https://github.com/lafathalfath/tagrinov**
+- 🔭 I’m currently working on
+- **https://github.com/lafathalfath/tagrinov**
+- **https://github.com/lafathalfath/pompanisasi-input**
 - 💬 Ask me about ...
 - 📫 How to reach me **husnimubaroksvtn@gmail.com**
 
