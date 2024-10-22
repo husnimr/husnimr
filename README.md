@@ -3,6 +3,7 @@
 ### <p align="center">I'm a developer, with the interest for frontend development</p>
 
 - 🔭 I’m currently some **personal project**
+- - 🔭 I’m currently working on **https://github.com/lafathalfath/tagrinov**
 - 💬 Ask me about ...
 - 📫 How to reach me **husnimubaroksvtn@gmail.com**
 
