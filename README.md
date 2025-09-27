@@ -33,12 +33,12 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=husnimr&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=husnimr&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnimr&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
