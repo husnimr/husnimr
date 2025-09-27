@@ -1,31 +1,48 @@
-# <p align="center">  Hi 👋, I'm Husni Mubarok Ramadhan </p>
+# Hi there 👋, I'm Husni Mubarok Ramadhan 
 
-### <p align="center">I'm a developer, with the interest for full stack development</p>
+**Software Developer | Problem Solver | Tech Enthusiast**
 
-- 🔭 I’m currently some **personal project**
-- 🔭 I’m currently working on
-- **https://github.com/lafathalfath/tagrinov**
-- **https://github.com/lafathalfath/pompanisasi-input**
-- 💬 Ask me about ...
-- 📫 How to reach me **husnimubaroksvtn@gmail.com**
+---
 
-### 
+## 🧠 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husnimr&layout=compact)
+- 🎓 I’m a graduate of **Software Engineering Technology** from **Institut Pertanian Bogor (IPB University)**  
+- 💡  Passionate about **Web Development**, **Software Engineering**, **Data Management**, and **Technology Innovation**  
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning more about backend systems, cloud, and arsitektur scalable  
+- 📫 Reach me: **husnimubarok015@gmail.com**  
+- 🌐 LinkedIn: [in/husnimubarokramadhan](https://www.linkedin.com/in/husnimubarokramadhan)
 
 
 <!--
-**husnimr/husnimr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏗️ What I Do / Key Skills
+
+| Area | Skills / Tools |
+|------|----------------|
+| Frontend | React, Vue, HTML, CSS, Tailwind, Bootstrap |
+| Backend | Node.js, Express, PHP, Laravel, RESTful API |
+| Database | MySQL, PostgreSQL, MongoDB |
+| DevOps / Deployment | Docker, CI/CD (GitHub Actions, GitLab CI), AWS / DigitalOcean |
+| Testing / Tools | Jest, Mocha, ESLint, Prettier |
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=husnimr&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husnimr&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnimr&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+
+---
+
+
