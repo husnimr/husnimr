@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I’m a graduate of **Software Engineering Technology** from **Institut Pertanian Bogor (IPB University)**  
+- 🎓 I’m a student of **Software Engineering Technology** from **Institut Pertanian Bogor (IPB)**  
 - 💡  Passionate about **Web Development**, **Software Engineering**, **Data Management**, and **Technology Innovation**  
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning more about backend systems, cloud, and arsitektur scalable  
